@@ -360,7 +360,7 @@ margin-bottom: {{ section.settings.margin_bottom }}px;
           width="{{ section.settings.logo.width }}" height="{{ section.settings.logo.height }}"
           alt="{{ section.settings.logo.alt | default: shop.name | escape }}">
         {%- else -%}
-        <span class="h2"> Flannel Shirts & Company </span>
+        <span class="h1"> Flannel Shirts & Company </span>
         {%- endif -%}
       </a>
       {%- if request.page_type == 'index' -%}
