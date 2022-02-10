@@ -99,20 +99,20 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "the-reds"
           }
         },
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "flannel-red",
             "second_image": false
           }
         },
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "frontpage"
           }
         }
       },
